@@ -5,6 +5,11 @@
 RustGPT is an educational and engineering-focused project that builds the core of a language model without ML frameworks.  
 The objective is to implement the full stack ourselves: tokenization, tensor operations, attention, training loop, and text generation.
 
+## Step-by-Step Tutorial
+
+- [Building GPT from Scratch in Pure Rust (Step-by-Step)](./Building%20GPT%20from%20Scratch%20in%20Pure%20Rust%20(Step-by-Step).md)
+
+
 ## Why This Project
 
 Most developers can call an LLM API.  
@@ -194,7 +199,3 @@ It is designed to be strong evidence of hands-on capability in:
 - Rust systems engineering
 - Deep learning fundamentals
 - Performance-aware software architecture
-
-## License
-
-To be defined.

@@ -1,3 +1,9 @@
+mod model;
+mod tensor;
+mod tokenizer;
+mod training;
+mod utils;
+
 fn main() {
-    println!("Hello, world!");
+    println!("RustGPT bootstrap ready");
 }
